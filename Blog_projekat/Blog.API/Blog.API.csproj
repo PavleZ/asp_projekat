@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>0675d225-e667-441b-9dc2-62cdf70cb52f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Bogus" Version="33.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Blog.Application\Blog.Application.csproj" />
+    <ProjectReference Include="..\Blog.DataAccess\Blog.DataAccess.csproj" />
+    <ProjectReference Include="..\Blog.Domain\Blog.Domain.csproj" />
+    <ProjectReference Include="..\Blog.Implementation\Blog.Implementation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+
+</Project>

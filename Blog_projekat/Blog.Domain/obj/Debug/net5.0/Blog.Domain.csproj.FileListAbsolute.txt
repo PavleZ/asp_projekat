@@ -1,0 +1,12 @@
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\bin\Debug\net5.0\Blog.Domain.deps.json
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\bin\Debug\net5.0\Blog.Domain.dll
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\bin\Debug\net5.0\ref\Blog.Domain.dll
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\bin\Debug\net5.0\Blog.Domain.pdb
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\obj\Debug\net5.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\obj\Debug\net5.0\Blog.Domain.AssemblyInfoInputs.cache
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\obj\Debug\net5.0\Blog.Domain.AssemblyInfo.cs
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\obj\Debug\net5.0\Blog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\obj\Debug\net5.0\Blog.Domain.dll
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\obj\Debug\net5.0\ref\Blog.Domain.dll
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\obj\Debug\net5.0\Blog.Domain.pdb
+C:\Users\Pavle\source\repos\Blog_projekat\Blog.Domain\obj\Debug\net5.0\Blog.Domain.csproj.AssemblyReference.cache

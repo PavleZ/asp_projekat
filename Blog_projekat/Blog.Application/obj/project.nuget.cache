@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WbB5K9FnBGMH8HHlniHBMFCZsaj6hxl0lmbRpbKo7AuObUmemHZc74gdkYnJbi+Nfr27PVpvdgRBz7PvWk3z6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pavle\\Source\\Repos\\PavleZ\\asp_projekat\\Blog_projekat\\Blog.Application\\Blog.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pavle\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.7\\microsoft.aspnetcore.http.features.5.0.7.nupkg.sha512",
+    "C:\\Users\\Pavle\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Pavle\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
